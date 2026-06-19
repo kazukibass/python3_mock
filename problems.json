@@ -1,0 +1,30 @@
+[
+  {
+    "id": "python_basics",
+    "title": "Python 基礎",
+    "description": "リスト・辞書・文字列・演算子など基本構文の問題集",
+    "difficulty": "初級",
+    "file": "sets/python_basics.json"
+  },
+  {
+    "id": "python_mid",
+    "title": "Python 中級",
+    "description": "クラスと標準ライブラリを中心とした中級レベル問題集",
+    "difficulty": "中級",
+    "file": "sets/python_mid.json"
+  },
+  {
+    "id": "python_advanced",
+    "title": "Python 上級",
+    "description": "Python3エンジニア認定基礎試験の出題傾向を意識した実践的な問題集",
+    "difficulty": "上級",
+    "file": "sets/python_advanced.json"
+  },
+    {
+    "id": "python_advanced2",
+    "title": "Python 上級2",
+    "description": "Python3エンジニア認定基礎試験の出題傾向を意識した実践的な問題集その2",
+    "difficulty": "上級",
+    "file": "sets/python_advanced2.json"
+  }
+]
